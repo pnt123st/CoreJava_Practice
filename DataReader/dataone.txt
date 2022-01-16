@@ -1,0 +1,7 @@
+class
+object
+interface
+abstraction
+encapsulation
+inheritance
+polymorphism
